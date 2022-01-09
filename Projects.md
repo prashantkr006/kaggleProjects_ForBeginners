@@ -1,6 +1,6 @@
 1. Basic python and statistics
 
-Pima Indians :- https://www.kaggle.com/uciml/pima-indians-diabetes-database
+Pima Indians :- https://www.kaggle.com/uciml/pima-indians-diabetes-database \n
 Cardio Goodness fit :- https://www.kaggle.com/saurav9786/cardiogoodfitness
 Automobile :- https://www.kaggle.com/toramky/automobile-dataset
 
